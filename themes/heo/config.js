@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 [] 
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客,更多内容敬请期待。', url: 'https://notion-next-six-kohl.vercel.app/?theme=heo' },
-    { title: '欢迎添加我的微信wangzan101，期待与你有更多的交流。', url: 'https://notion-next-six-kohl.vercel.app/?theme=heo' }
+    { title: '欢迎来到我的博客,更多内容敬请期待。', url: 'https://jiazanw.com' },
+    { title: '欢迎添加我的微信wangzan101，期待与你有更多的交流。', url: 'https://jiazanw.com' }
 
 
   ],
